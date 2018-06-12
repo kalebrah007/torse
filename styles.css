@@ -1,6 +1,8 @@
-body { font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; }
-body {background-color: #0091f1 }
-h2 { text-align: center; }
-p { text-align: center; }
-.readme-wrapper { text-align: center; text-decoration: none; text-decoration-color: blueviolet } 
-.boxes { padding: 1em; margin: 0 auto; width: 100px; border: 1px brown;  } 
+body { font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+background-color: #e98708; color: #000000; }  
+.Container { text-align: center; } 
+.Boxes {display: block; margin: 3rem; border: 10px solid black;  padding: 20px 50px; border-radius: 0em; width: 20% } 
+.readme-wrapper :link{ text-decoration: none; color: rgb(3, 100, 19);  }
+.readme-wrapper a:hover { color:rgb(245, 8, 138); font: bold; }
+span { color: #087692; font-weight: 900; }
+
